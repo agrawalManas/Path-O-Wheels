@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207812624578",
+    "project_id": "path--o--wheels",
+    "storage_bucket": "path--o--wheels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207812624578:android:97c0e074b9ea4dfc7cfb5b",
+        "android_client_info": {
+          "package_name": "com.pathowheels.path_o_wheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207812624578-lqtmhfego4ch9llugjphei6gdpj9jvkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGhtk9opupUs5HxPYX_AWA9RsZXOaGiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207812624578-lqtmhfego4ch9llugjphei6gdpj9jvkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
